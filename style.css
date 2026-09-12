@@ -33,6 +33,18 @@ body {
     gap: 15px;
 }
 
+.nav-link {
+    color: #e2e8f0;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+    color: #38bdf8;
+}
+
 .container {
     max-width: 960px;
     margin: 2rem auto;
